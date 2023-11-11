@@ -10,7 +10,7 @@ I'm a business systems analyst with 4+ years of experience. I'm passionate about
 
 ---
 ## Skills
-+ HTML5, CSS3git a
++ HTML5, CSS3
 + JavaScript Basics
 + GIT 
 + MS SQL
