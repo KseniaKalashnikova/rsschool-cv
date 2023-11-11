@@ -10,15 +10,21 @@ I'm a business systems analyst with 4+ years of experience. I'm passionate about
 
 ---
 ## Skills
-+ HTML5, CSS3
++ HTML5, CSS3git a
 + JavaScript Basics
 + GIT 
 + MS SQL
 ---
 ## Code exemple
-
-
-
+```
+let val = 10
+if (val < 5) {
+    val += 20
+} else {
+    val -=20
+}
+console.log(val)
+```
 ---
 ## Courses
 - MS SQL 
